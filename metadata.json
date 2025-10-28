@@ -1,0 +1,5 @@
+{
+  "name": "Zenith To-Do",
+  "description": "A sleek and modern to-do management system to help you organize your tasks with ease. Built with React and Tailwind CSS, it offers a clean interface for adding, editing, completing, and deleting tasks, along with filtering options to stay focused.",
+  "requestFramePermissions": []
+}
